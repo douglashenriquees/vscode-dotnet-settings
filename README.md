@@ -31,4 +31,4 @@
 
 ## The editor config
 
-Use the .editorconfig file in this repository to preserve your style of identations and code
+Use the [.editorconfig](.editorconfig) file in this repository to preserve your style of identations and code
