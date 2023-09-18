@@ -35,4 +35,4 @@ Use the [.editorconfig](.editorconfig) file in this repository to preserve your 
 
 ## Removing unnecessary alert warnings
 
-* in **.csproj** into a property group **add** <NoWarn>CS8618</NoWarn>, for remove alerts of nullable fields
+* in **.csproj**, into a property group **add** <NoWarn>CS8618</NoWarn>, for remove alerts of nullable fields
