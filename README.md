@@ -15,3 +15,11 @@
 * OpenAPI (Swagger) Editor (https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 * vscode-icons (https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * Docker (https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+## Settings for improve visualization of the explorer
+
+* explorer.sortOrder **equals** type
+* files.exclude **add**
+  * **/bin
+  * **/obj
+  * **/.vscode
