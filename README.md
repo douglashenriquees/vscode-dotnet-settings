@@ -1,3 +1,3 @@
 # VsCode DotNet Settings
 
-## For reset default settings *on Windows*
+## To reset default settings **in Windows**
