@@ -28,3 +28,7 @@
 
 * editor.formatOnSave **set** to enable
 * files.trimFinalNewlines **set** to enable (specifically for .cs classes of the c#)
+
+## The editor config
+
+Use the .editorconfig file in this repository to preserve your style of identations and code
