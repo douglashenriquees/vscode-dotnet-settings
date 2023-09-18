@@ -32,3 +32,7 @@
 ## The editor config
 
 Use the [.editorconfig](.editorconfig) file in this repository to preserve your style of identations and code
+
+## Removing unnecessary alert warnings
+
+* in **.csproj** into a property group **add** <NoWarn>CS8618</NoWarn>, for remove alerts of nullable fields
