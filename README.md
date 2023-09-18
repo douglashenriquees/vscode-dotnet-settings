@@ -1,1 +1,1 @@
-# vscode-dotnet-settings
+# VsCode DotNet Settings
