@@ -8,7 +8,7 @@
 ## Install useful extensions for working with .NET
 
 * C# (https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-* C# Sort Usings (https://marketplace.visualstudio.com/items?itemName=jongrant.csharpsortusings)
+* C# Format Usings (https://marketplace.visualstudio.com/items?itemName=gaoshan0621.csharp-format-usings)
 * .NET Core Test Explorer (https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 * EditorConfig for VS Code (https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * Markdown All in One (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
