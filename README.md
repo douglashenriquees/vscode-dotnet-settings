@@ -2,8 +2,8 @@
 
 ## To reset default settings *in Windows*
 
-* Delete folder: C:\Users\user\AppData\Roaming\Code\User
-* Delete folder: C:\Users\user\.vscode\extensions
+* Delete folder: C:\Users\username\AppData\Roaming\Code\User
+* Delete folder: C:\Users\username\.vscode\extensions
 
 ## Install useful extensions for working with .NET
 
@@ -29,6 +29,7 @@
 
 * editor.formatOnSave **set** to enable
 * files.trimFinalNewlines **set** to enable (specifically for .cs classes of the c#)
+* csharpFormatUsings.splitGroups **set** to disable
 
 ## The editor config
 
